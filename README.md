@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Packages
 
-This project is a starting point for a Flutter application.
+   provider: ^6.0.5
+  math_expressions: ^2.4.0
+  function_tree: ^0.8.13
+  auto_size_text: ^3.0.0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ##discription
+  perform basic Arthematic operation with some Trignometric operation
